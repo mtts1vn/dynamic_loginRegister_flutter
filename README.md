@@ -1,4 +1,5 @@
-# animatedapp
+# Dynamic login/register screen Flutter 
+
 
 A new Flutter project.
 
